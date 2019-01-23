@@ -1,0 +1,5 @@
+tensorflow==1.11.0
+pandas==0.23.4
+Keras==2.2.4
+numpy==1.15.3
+tqdm==4.26.0
